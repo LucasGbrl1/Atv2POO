@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HorasTrabalhadasController
+comment1.params=
+comment1.target=HorasTrabalhadasController()
+comment2.params=
+comment2.target=void\ iniciar()
+comment3.params=e
+comment3.target=void\ botaoCalcularClicado(javafx.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ botaoLimparClicado(javafx.event.ActionEvent)
+numComments=5

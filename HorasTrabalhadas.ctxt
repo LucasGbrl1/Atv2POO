@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HorasTrabalhadas
+comment1.params=horaEntrada\ minutoEntrada\ horaSaida\ minutoSaida
+comment1.target=HorasTrabalhadas(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ calcularHoras()
+numComments=3
